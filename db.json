@@ -1,0 +1,40 @@
+{
+  "data": [
+      {
+          "description": "",
+          "qty": "",
+          "uom": {
+              "option": [{"name": "ABCDE"}, {"name": "FGHIJ"}]
+          },
+          "unitPrice": "",
+          "discount": 0,
+          "vat": 0,
+          "currency": {
+              "option": [{"name": "IDR"}, {"name": "USD"}]
+          },
+          "vatAmount": 0,
+          "subTotal": 0,
+          "total": 0,
+          "chargeTo": {
+              "option": [{"name": "A"}, {"name": "B"}]
+          }
+      }
+  ],
+
+  "form": [
+      {
+          "assignedVendor": {
+              "option": [{"name": "JNE Logistics Co Ltd"}, {"name": "J&T Logistics Co Ltd"}]
+          },
+          "invoiceTo": {
+              "option": [{"name": "A"}, {"name": "B"}]
+          },
+          "costumerContract": {
+              "option": [{"name": "ABCDE12345"}, {"name": "FGHIJ67890"}]
+          },
+          "costumerPONo": {
+              "option": [{"name": "A123"}, {"name": "B456"}]
+          }
+      }
+  ]
+} 

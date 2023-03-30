@@ -1,0 +1,124 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: white;
+}
+
+.buttons-container{
+    max-width: 90%;
+    text-align: right;
+    font-size: 0.85em;
+    margin-top: 30px;
+}
+
+.button-draft{
+    background-color: white;
+    padding: 10px 32px;
+    border: 1px solid #00bfbf;
+    border-radius: 4px;
+    margin: 0 8px;
+}
+
+.button-submit{
+    color: white;
+    background-color: #00bfbf;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 4px;
+    margin: 0 8px;
+}
+
+.buttons-container a{
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
+
+p, select {
+    font-size: 13px;
+}
+
+.A{
+    margin-top: 50px;
+}
+
+.container-table{
+    max-width: 90%;
+}
+
+.cost-detail {
+    color:#00bfbf;
+    margin-top: 30px;
+}
+
+.cost-detail i{
+    margin: 0px 0px 5px 10px;
+}
+
+.cost-detail h3, .cost-detail i {
+    display:inline-block;
+    vertical-align:middle;
+}
+
+.content-table {
+    border-collapse: collapse;
+    margin: 15px 0;
+    font-size: 0.85em;
+    min-width: 400px;
+    border: 1px solid #e0e0d1;
+    overflow: hidden;
+}
+
+.iconContainer {
+    color: #d4d4d4;
+}
+
+.grey-col{
+    background-color:#e9ecef;
+}
+
+.iconGreen{
+    color:#00bfbf;
+}
+
+
+
+.logistic-btn{
+    padding: 8px 32px;
+    margin-left: 15px;
+    background-color: #fafafa;
+    margin-right: 20px;
+}
+
+.logistic-btn i{
+    color:#00bfbf;
+    margin-right: 10px;
+}
+
+.draft-btn{
+    padding: 0px 55px;
+    margin-top: 10px;
+    background-color: #d4d4d4;
+    color: black;
+    border-radius: 10px;
+}
+
+.form-container{
+    border: 1px solid #e0e0d1;
+    padding: 20px 0;
+}
+
+.form-control{
+    background-color: #fafafa;
+}
+
+.first-row{
+    margin-right: 5px;
+}
+
+.second-row{
+    margin-top: 20px;
+    margin-right: 5px;
+}
